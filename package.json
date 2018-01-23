@@ -1,0 +1,18 @@
+{
+  "name": "leveldb-websocket-server",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "level": "^2.1.1",
+    "multilevel": "^7.3.0",
+    "websocket-stream": "^5.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Alexander Vados <alex.vados@gmail.com>",
+  "license": "MIT"
+}
